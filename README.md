@@ -1,1 +1,3 @@
-This file is modified by dev1
+<<<<<<< HEAD
+This file is modified by dev2
+this file is modified by dev1
